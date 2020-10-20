@@ -5,4 +5,4 @@ PURPOSE OF PROJECT: this project was designed for the apartment booking
 VERSION or DATE:2014
 HOW TO START THIS PROJECT:
 AUTHORS:darpan NEUPANE
-USER INSTRUCTIONS: you can check for the avilability of the apartment and you can book it along with the payment for rental.
+USER INSTRUCTIONS: you can check for the avilability of the apartment and you can book it along with the payment for rental and also you can sell your apartment and you can return your apartment.
