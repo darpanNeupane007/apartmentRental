@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=description\ area\ NewPrice\ NewtotalBedRoom\ NewtotalBathRoom
+comment0.target=ApartmentToSell(java.lang.String,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ApartmentToSell\r\n
+comment1.params=
+comment1.target=int\ getPrice()
+comment1.text=\r\n\ Get\ methods\ \ for\ returning\ the\ values\r\n
+comment2.params=
+comment2.target=int\ getTotalBedRoom()
+comment3.params=
+comment3.target=int\ getTotalBathRoom()
+comment4.params=
+comment4.target=boolean\ getsold()
+comment5.params=newPrice
+comment5.target=void\ priceChange(int)
+comment5.text=\r\n\ Set\ method\ for\ setting\ new\ values\ \r\n
+comment6.params=NewCustomerName
+comment6.target=void\ selling(java.lang.String)
+comment6.text=\r\n\ Accepts\ the\ parameter\ value\ and\ initializes\ to\ its\ inatant\ variable\ \r\n
+numComments=7
